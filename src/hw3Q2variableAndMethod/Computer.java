@@ -3,21 +3,16 @@ package hw3Q2variableAndMethod;
 import javax.security.auth.login.Configuration;
 
 public class Computer {
+	public String Brand;
+	public String Model;
+	public String OperatingSystem;
+	public int price;
+	public boolean madeInUSA;
+	public char grade;
 
-	String brand;
-	String model;
-	String operatingSystem;
-	int price;
-	boolean madeInUSA;
-	char grade;
-    
-	public Computer() {
-		
-	}
-	public void Configuration() {
-
-		System.out.println("Brand Name is: " + brand + "\nModel: " + model + "\nOerating system: " + operatingSystem
-				+ "\nPrice" + price + "\nMadeInUSA: " + madeInUSA + "\nGrade: " + grade);
+	public void configuration() {
+		System.out.println("My Brand: " + Brand + "\nModel: " + Model + "\nOperating System: " + OperatingSystem
+				+ "\nPrice: " + price + "\nMade in the USA? Ans: " + madeInUSA + "\nGrade: " + grade);
 
 	}
 
