@@ -1,5 +1,5 @@
 package hw5Q2JavaConditionalStatement;
-
+//ToDo HW not done yet.
 public class CompareAge {
 	public static void main(String[] args) {
 		int ageOfAlex = 21;
