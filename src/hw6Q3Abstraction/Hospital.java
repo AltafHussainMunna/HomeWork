@@ -1,4 +1,4 @@
-package hw6Q3nheritance;
+package hw6Q3Abstraction;
 
 public interface Hospital {
 

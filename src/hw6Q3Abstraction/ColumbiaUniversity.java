@@ -1,12 +1,11 @@
-package hw6Q3nheritance;
+package hw6Q3Abstraction;
 
 import org.omg.CORBA.PUBLIC_MEMBER;
 
 public class ColumbiaUniversity {
 
 	// This is an Abstract method.
-	// In a Regular Class we cannot declare/define abstract methods we can
-	// ONLYimplement them.
+	// In a Regular Class we cannot declare/define abstract methods we can ONLY implement them.
 	// public abstract void chemistry();
 
 	// This a Non-Abstract method.
