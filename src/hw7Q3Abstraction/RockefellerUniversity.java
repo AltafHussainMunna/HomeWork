@@ -6,7 +6,7 @@ public class RockefellerUniversity {
 	// In a Regular Class we cannot declare/define abstract methods we can ONLY implement them.
 	// public abstract void math();
 
-	public void statistics() {
+	public  void statistics() {
 		System.out.println("This is the Statistics Class.");
 	} // In a regular class we can only implement non-abstract methods.
 
